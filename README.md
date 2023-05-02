@@ -19,7 +19,10 @@ Supposed to create and SVG with a certain shape with captions in it.
 ## Credits
 
 ## Screenshot
+![image](https://user-images.githubusercontent.com/124632375/235575510-c8673cba-c719-4e03-9209-1260840ac1ca.png)
+![image](https://user-images.githubusercontent.com/124632375/235575757-a8fe66cd-5fee-4e29-9ddf-037f8f9f56ac.png)
 
+![image](https://user-images.githubusercontent.com/124632375/235575900-5e26404f-c13d-42b1-b49e-f9dcaf1f95ba.png)
 N/A
 
 ## License
