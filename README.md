@@ -14,7 +14,7 @@ https://drive.google.com/file/d/1odfiz69W9oHm21twF4L4JMXPtnGGuHhh/view
 
 ## Usage
 
-Supposed to create and SVG with a certain with captions in it.
+Supposed to create and SVG with a certain shape with captions in it.
 
 ## Credits
 
